@@ -1,0 +1,57 @@
+@mixin font-size-header-1 {
+fontFamily: PingFang SC;
+fontSize: 48px;
+lineHeight: 60px;
+letterSpacing: 0px;
+
+
+}
+@mixin font-size-header-2 {
+fontFamily: PingFang SC;
+fontSize: 36px;
+lineHeight: 46px;
+
+
+}
+@mixin font-size-header-3 {
+fontFamily: PingFang SC;
+fontSize: 24px;
+lineHeight: 34px;
+
+
+}
+@mixin font-size-header-4 {
+fontFamily: PingFang SC;
+fontSize: 30px;
+lineHeight: 28px;
+
+
+}
+@mixin font-size-header-5 {
+fontFamily: PingFang SC;
+fontSize: 18px;
+lineHeight: 26px;
+
+
+}
+@mixin font-size-header-6 {
+fontFamily: PingFang SC;
+fontSize: 16px;
+lineHeight: 24px;
+
+
+}
+@mixin font-size-regular {
+fontFamily: PingFang SC;
+fontSize: 14px;
+lineHeight: 22px;
+
+
+}
+@mixin font-size-small {
+fontFamily: PingFang SC;
+fontSize: 12px;
+lineHeight: 20px;
+
+
+}
